@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="AppTheme.NoActionBarLaunch" parent="AppTheme.NoActionBar">
+        <!--        <item name="android:background">@drawable/splash</item>-->
+        <item name="android:windowSplashScreenBackground">@color/ic_launcher_background</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splashimage</item>
+    </style>
+</resources>
